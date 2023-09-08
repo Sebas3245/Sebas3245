@@ -2,6 +2,11 @@
 <h3 align="left">Software Engineer | Full Stack Developer</h3>
 <h3 align="left"> I love building the Mobile Apps and Websites</h3>
 
+I am a passionate software developer with 4 years of experience in
+full stack development of web and mobile applications. My work
+experience includes leading projects using clean architecture and
+best development practices.
+
 - </> I currently focus on Javascript, Typescript, React, React Native and NextJS. 
 
 - 💬 Ask me about **javascript** and **typescript**
