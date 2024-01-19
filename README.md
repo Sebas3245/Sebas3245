@@ -7,7 +7,7 @@ full stack development of web and mobile applications. My work
 experience includes leading projects using clean architecture and
 best development practices.
 
-- </> I currently focus on Javascript, Typescript, React, React Native and NextJS. 
+- </> I currently focus on Javascript, Typescript, React, ViteJS, NextJS and React Native. 
 
 - 💬 Ask me about **javascript** and **typescript**
 
