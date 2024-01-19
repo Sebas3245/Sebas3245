@@ -9,8 +9,6 @@ best development practices.
 
 - </> I currently focus on Javascript, Typescript, React, ViteJS, NextJS and React Native. 
 
-- 💬 Ask me about **javascript** and **typescript**
-
 - 📫 How to reach me [**jsebastianlara3245@gmail.com**](mailto:jsebastianlara3245@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
