@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sebastian Lara</h1>
 <h3 align="left">Software Engineer | Full Stack Developer</h3>
-<h3 align="left"> I love building the Mobile Apps and Websites</h3>
+<h3 align="left"> I love building the Websites and Mobile Apps</h3>
 
 I am a passionate software developer with 4 years of experience in
 full stack development of web and mobile applications. My work
