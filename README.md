@@ -29,7 +29,7 @@ best development practices.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" height="40" width="40" alt="golang logo"  />
   <img src="https://www.svgrepo.com/show/376344/python.svg" height="45" width="45" alt="python logo"  />
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="45" width="45" alt="python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="45" width="25" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" height="40" width="42" alt="oracle logo"  />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" height="40" width="42" alt="mysql logo"  />
